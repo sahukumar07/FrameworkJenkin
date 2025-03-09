@@ -23,6 +23,8 @@ public class ContactTest {
 	@Test
 	public void modifycontactTest() {
 		System.out.println("modify contact test");
+		System.out.println("Contact information modified");
+		
 
 	}
 

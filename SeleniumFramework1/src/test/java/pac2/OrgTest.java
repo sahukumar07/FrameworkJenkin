@@ -13,6 +13,7 @@ public class OrgTest {
 	@Test
 	public void modifyorgTest() {
 		System.out.println("modify organisation test");
+		System.out.println("Org info modified");
 
 	}
 
